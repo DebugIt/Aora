@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Aora",
+    "scheme": "aora",
+    "slug": "aora",
+    "version": "1.0.0",
+    "plugins": [
+      "expo-router"
+    ],
+    "entryPoint": "node_modules/expo-router/entry",
+    "android": {
+      "package": "com.debug.aora"
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "469386a4-8c3b-4702-ab57-cc01144a0a67"
+      }
+    }
+  }
+}
